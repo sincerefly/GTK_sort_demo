@@ -6,7 +6,7 @@ GTK_sort_demo
 ####介绍
 本小程序使用GTK+-2.0编写，通过Makefile组织，在Linux环境下编译运行，通过图形化的方式显示各个主流算法的排序时间
 
-![](http://ishell.me/wp-content/uploads/2014/05/DeepinScreenshot20140503155916.png)
+![](demo.png)
 
 点击上面的所需排序数字的个数，等待片刻即可
 
